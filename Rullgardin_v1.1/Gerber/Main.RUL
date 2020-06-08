@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\ProgramData\Altium\CircuitMaker {8D2846C8-8FCB-4FA3-B979-8E61F0085FC7}\Projects\0B392B11-48CF-4022-8DB1-EF7C1A971DBA\a7d2d4ce-1a55-4eba-9431-32fc7c6e906c\Main.CMPcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_MC|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_POWER|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00

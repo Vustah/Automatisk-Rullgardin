@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Main.GBR   08.02.2020  16.05.12
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                L1_Top                                  
+.G1                 L2_GND                                  
+.G2                 L3_POWER                                
+.GBL                L4_Bottom                               
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.Outline            Outline                                 
+.3D Top             3D Top                                  
+.Courtyard Top      Courtyard Top                           
+------------------------------------------------------------------------------------------
